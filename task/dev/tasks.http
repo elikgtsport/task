@@ -1,0 +1,30 @@
+POST localhost:8080
+Content-Type: application/json
+
+{
+"title" : "Homework-Szkoła Springa 15:00",
+"author": "Ela",
+"date": "2019-11-15T11:02:55"
+}
+###
+POST localhost:8080
+Content-Type: application/json
+
+{
+"title" : "English 17:00",
+"author": "Ela",
+"date": "2019-11-15T11:10:55"
+}
+###
+POST localhost:8080
+Content-Type: application/json
+
+{
+"title" : "Trenning 20:00",
+"author": "Ela",
+"date": "2019-11-15T11:10:55"
+}
+
+###
+GET localhost:8080
+###
